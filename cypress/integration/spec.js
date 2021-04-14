@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 describe('page', () => {
   it('works', () => {
-    cy.visit('https://example.cypress.io')
+    cy.visit('http://localhost:5000/index.xhtml')
   })
 })
